@@ -3,3 +3,5 @@ module.exports = {
     '@vue/app'
   ]
 }
+
+let str = 'Creating a new branch is quick.'
